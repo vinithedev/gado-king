@@ -1,0 +1,122 @@
+>Leve carregador de celular.
+>Leve casaco.
+>Não se empanturre de comer, pois dá sono.
+>Não exagere no energético, pois pode dar tontura.
+>Não se intimide: A enorme maioria dos participantes, serão desenvolvedores júnior e não-desenvolvedores.
+>Encontre uma boa mesa para se fixar.
+>Procure os patrocinadores e pergunte o que eles esperam, para você ter uma ideia correta do que construir. Não faça perguntas aleatórias, Pergunte só coisas específicas sobre o tipo de aplicação que eles esperam receber e qual eles tipo eles não querem.
+>Caso o evento seja patrocinado por uma tecnologia em específico, utilize e enfatize essa tecnologia na aplicação.
+
+1: Escolha a ideia(brainstorm).
+2: Valide a ideia: O problema proposto, realmente existe? Nossa proposta resolve o problema? Pessoas pagariam pela nossa solução?
+3: Escolha do nome(não demore muito tempo neste passo).
+4: MVP: Desenvolva apenas o produto minimamente viável. Foque na solução do problema e não na complexidade do software.
+5: Descubra, com os organizadores, se os mesmos querem um protótipo FUNCIONAL(ações realmente precisam acontecer no software) ou NAVEGÁVEL(apenas simula ações).
+6: Ouvir mentores e trabalhar críticas.
+7: Monte uma apresentação de 5min.
+	Escolha entre slides ou vídeo.
+		Não use letras ou imagens pequenas, em nenhum lugar. Use imagens e letras grandes.
+		Não olhe muito para o slide, pois causa a impressão de que você não sabe do que está falando.
+		Invista nos slides. Tenha slides lindos.
+		Explique bem o PROBLEMA que seu aplicativo vai resolver.
+		Fale com confiança. Troque "Achamos que a melhor forma de resolver é..." por "A melhor forma de resolver este problema é fazendo X, Y, Z. Sabemos isso porque A, B, C.". Apresente argumentos.
+		Explique os termos técnicos rapidamente. Foque na solução, não na tecnologia.
+		Não se mova demais e nem de menos.
+		Ensaie todos os dias.
+		Apresente o modelo de negócios.
+		Conheça e cite seus concorrentes. Fale seu diferencial da concorrência.
+		Explique o tamanho do seu mercado. Deixe bem claro quantas pessoas possivelmente usarão sua solução. Quanto você pretende alcançar e quanto será possível expandir seu mercado. Explicar como chegamos nessa conclusão.
+		Mostre que você validou o problema: Entreviste as pessoas, escute seus clientes e coloque no slide o que as pessoas falaram do produto. Quanto mais pessoas, melhor.
+		Deixe claro seus diferencial e o do seu time: Porquê você é 'o cara' e porque o seu time é o melhor e o único que pode resolver aquele problema, melhor do que qualquer outra empresa no mundo.
+		Deixe claro o que você está buscando: "Estou buscando um investimento de $XX porque em Y meses, pretendo crescer Z..."
+		Reserve um slide para nome e contato
+8: Escolha um showman para apresentar.
+9: Anote as críticas feitas pelos jurados na mesma hora.
+
+================================================================================================================================================
+PROBLEMAS/SOLUÇÕES
+------------------------------------------------------------------------------------------------------------------------------------------------
+>Solução: Adoção de Sistemas Integrados de Produção Agropecuária(Sipas). Exemplo: Integração Lavoura-Pecuária(ILP).
+>Unir bovinocultura de corte à produção de grãos.
+>Grande área poderia estar gerando renda por meio da pecuária, mas fica sem uso durante boa parte do ano.
+>5 milhões de hectares ficam em pousio todos os anos. Fazendo cobertura de solo, preparando o terreno para a próxima safra de verão.
+>ILP permite que pecuária conviva com agricultura, ocupando as mesmas terras em momentos diferentes do ano.
+>No verão: Animais são manejados em área de pastagem tropical perene. Produção de grãos no restante da propriedade.
+>No inverno: Área dos grãos são semeadas com forradeiras para alimentação dos animais.
+------------------------------------------------------------------------------------------------------------------------------------------------
+Internet: Sul do Brasil: Conexão de internet atinge apenas 26% da área rural.
+------------------------------------------------------------------------------------------------------------------------------------------------
+================================================================================================================================================
+PATROCINADORES
+------------------------------------------------------------------------------------------------------------------------------------------------
+Cocamar - Cooperativa Agroindustrial: Comércio de insumos agropecuários, grãos + APP
+SRM - Sociedade Rural de Maringá: Promove eventos
+Expoingá: Promove eventos
+UniCesumar - Faculdade: Promove EAD e MBA em Agronegócio
+Sicredi - Crédito Empresarial
+SEBRAE - Serviço Brasileiro de Apoio às Micro e Pequenas Empresas: Crédito Empresarial
+BRDE – Banco Regional de Desenvolvimento do Extremo Sul: Crédito Empresarial
+Fomento Paraná - Crédito Empresarial
+------------------------------------------------------------------------------------------------------------------------------------------------
+================================================================================================================================================
+APLICATIVO
+------------------------------------------------------------------------------------------------------------------------------------------------
+Auto:
+	Estação do ano + Histórico de clima
+	Localizacao
+	Qualidade solo regiao ou produtividade
+	Cotação de Gado 
+	Cotação de Ração
+	Cotação de Insumos(gado)
+	Frete/Frigorífico
+	
+Input:
+	Quantidade Hectares disponível(considera-se X cabeças por hectar)
+	Quantidade e Idade do gado (bezerro - adulto)
+	Idade do gado
+
+Output:
+	Riscos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
